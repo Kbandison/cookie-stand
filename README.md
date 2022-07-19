@@ -1,11 +1,11 @@
 # cookie-stand
 
-Lab - 06
+<h2>Lab - 06</h2>
 
-Salmon Cookies
+<h2> Salmon Cookies</h2>
 
-Author: Kevin Bandison
+<h3>Author: Kevin Bandison</h3>
 
-Links and Resources
+<h3>Links and Resources</h3>
 
-Reflections/Comments
+<h3>Reflections/Comments</h3>
